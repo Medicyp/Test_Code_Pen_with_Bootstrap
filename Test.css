@@ -1,0 +1,19 @@
+.title {
+  color: red;
+}
+
+#title {
+  color: purple;
+  background-color: black;
+  padding: 20px;
+  margin: 20px;
+  float: left;
+}
+
+/* p {
+  display: inline-block;
+} */
+
+.my-paragraph {
+  color: blue;
+} 
